@@ -1,4 +1,4 @@
-# Projekt Strony Internetowej: Traszka Zwyczajna
+# Projekt Strony Internetowej: QR Code to HTML
 
 ![Traszka Zwyczajna](traszka.jpeg)
 
@@ -13,10 +13,6 @@ Projekt "Traszka Zwyczajna" to strona internetowa poświęcona gatunkowi płaza 
 - Sekcja "Rozmnażanie" przedstawia skomplikowany cykl rozwoju tego gatunku, w tym okres godowy, składanie jaj i rozwój larw.
 - Sekcja "Występowanie w Polsce" informuje o rozpowszechnieniu Traszki Zwyczajnej na terenie Polski, jej zdolności do dostosowywania się do różnych siedlisk i ochronie prawnej.
 - Sekcja "Zagrożenia" omawia zagrożenia, jakie stoją przed populacją Traszki Zwyczajnej, w tym utrata siedlisk i wprowadzenie gatunków inwazyjnych.
-
-**Cel Projektu:**
-
-Naszym celem jest edukacja i podniesienie świadomości o znaczeniu ochrony Traszki Zwyczajnej oraz jej naturalnego środowiska. Dzięki tej stronie chcemy przyczynić się do ochrony tego fascynującego gatunku.
 
 **Jak Pomóc:**
 
