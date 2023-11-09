@@ -1,28 +1,47 @@
-# Projekt Strony Internetowej: QR Code to HTML
+# Strona o Traszce Zwyczajnej
 
 ![Traszka Zwyczajna](traszka.jpg)
 
-**Opis Projektu:**
+## Wstęp
 
-Projekt "Traszka Zwyczajna" to strona internetowa poświęcona gatunkowi płaza występującemu w Polsce - Traszce Zwyczajnej (Lissotriton vulgaris). Strona ma na celu dostarczenie informacji na temat wyglądu, zachowań, występowania oraz ochrony tego fascynującego gatunku płaza. Naszym celem jest podniesienie świadomości ekologicznej i edukacja dotycząca tej istotnej części naszego ekosystemu.
+Projekt ma na celu dostarczenie informacji na temat Traszki Zwyczajnej, gatunku płaza występującego w Polsce, oraz umożliwienie dostępu do tych treści poprzez skanowanie kodu QR.
 
-**Zawartość Strony:**
+## Rozdziały
 
-- Sekcja "Wygląd" prezentuje charakterystyczne cechy wyglądu Traszki Zwyczajnej, takie jak ubarwienie, wydłużony ogon, brodawki na palcach i jaskrawe kolory samców.
-- Sekcja "Życie w wodzie" opisuje środowisko życia Traszki Zwyczajnej i jej polowanie na owady i drobne zwierzęta w wodzie.
-- Sekcja "Rozmnażanie" przedstawia skomplikowany cykl rozwoju tego gatunku, w tym okres godowy, składanie jaj i rozwój larw.
-- Sekcja "Występowanie w Polsce" informuje o rozpowszechnieniu Traszki Zwyczajnej na terenie Polski, jej zdolności do dostosowywania się do różnych siedlisk i ochronie prawnej.
-- Sekcja "Zagrożenia" omawia zagrożenia, jakie stoją przed populacją Traszki Zwyczajnej, w tym utrata siedlisk i wprowadzenie gatunków inwazyjnych.
+1. **Opis**: Charakteryzacja Traszki Zwyczajnej.
 
-**Jak Pomóc:**
+2. **Życie w wodzie**: Informacje na temat środowiska i zachowań Traszki Zwyczajnej w wodzie.
 
-Jeśli jesteś zainteresowany wspieraniem projektu, możesz:
-- Podzielić się tą stroną, aby zwiększyć świadomość na temat Traszki Zwyczajnej.
-- Przyczynić się do dodawania informacji lub poprawek dotyczących gatunku.
-- Wspomóc w identyfikacji i ochronie siedlisk Traszki Zwyczajnej w swojej okolicy.
+3. **Rozmnażanie**: Cykl rozwoju i rozrodu Traszki Zwyczajnej.
 
-**Kontakt:**
+4. **Występowanie w Polsce**: Rozpowszechnienie gatunku w Polsce.
 
-Jeśli masz pytania lub sugestie, skontaktuj się z nami pod adresem [strach.daniel.dev@gmail.com].
+5. **Zagrożenia**: Czynniki zagrażające populacjom Traszki Zwyczajnej.
 
-Dziękujemy za wsparcie i zainteresowanie projektem Traszka Zwyczajna!
+6. **Zmiana rozszerzenia obrazka**: Krótka dygresja o dostosowaniu rozszerzeń na różnych systemach.
+
+## Krótka dygresja: Zmiana rozszerzenia obrazka 
+
+Czasami przy przeglądaniu strony, fotografia może nie wyświetlać się poprawnie. 
+Jest to czysto zależne od systemu operacyjnego na którym postawiona została strona.
+Oto krótka wskazówka, która pozwoli Ci dostosować rozszerzenie obrazka w zależności od systemu operacyjnego:
+
+- **Windows**: Aby obrazek wyświetlał się poprawnie na systemie Windows, w sekcji `<body> <img>` zmień rozszerzenie na `.jpg`.
+```html
+<img src="traszka.jpg" alt="Obrazek Traszki Zwyczajnej" width="90%" height="90%">
+```
+- **MacOS**: Jeśli korzystasz z macOS, w sekcji `<body> <img>`  warto użyć rozszerzenia `.jpeg`. System ten preferuje to rozszerzenie, zamiast `.jpg`.
+```html
+<img src="traszka.jpeg" alt="Obrazek Traszki Zwyczajnej" width="90%" height="90%">
+```
+
+## Kontakt
+
+W przypadku pytań, uwag lub sugestii, prosimy o kontakt pod adresem e-mail: [strach.daniel.dev@gmail.com](mailto:strach.daniel.dev@gmail.com).
+
+## Uwaga
+
+Strona została stworzona z myślą o skanowaniu kodu QR. Licencja strony jest zawarta w stopce.
+Fotografia użyta na stronie jest licencjonowana na mocy Creative Commons Attribution 2.0 Generic (CC BY 2.0).
+
+---
