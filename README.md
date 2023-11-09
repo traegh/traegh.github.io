@@ -1,6 +1,6 @@
 # Projekt Strony Internetowej: QR Code to HTML
 
-![Traszka Zwyczajna](traszka.jpeg)
+![Traszka Zwyczajna](traszka.jpg)
 
 **Opis Projektu:**
 
