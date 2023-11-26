@@ -1,6 +1,6 @@
-# Strona o Traszce Zwyczajnej
+# Strona o Traszce Grzebieniastej
 
-![Traszka Zwyczajna](traszka.jpg)
+![Traszka Grzebieniasta](traszka.jpg)
 
 ## Wstęp
 
